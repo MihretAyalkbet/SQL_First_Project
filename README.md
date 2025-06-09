@@ -67,5 +67,6 @@ Summary of Insights
 ✅ [Top Category] led in both units sold and revenue.
 
 ✅ Male/Female customers spent more on average — as shown in gender analysis.
+
 ✅ Revenue trends show growth during [monthly/weekly] periods.
 
