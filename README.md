@@ -1,6 +1,9 @@
 # SQL_First_Project
+
 👨‍💻 Author: Mihret
+
 📁 Project Type: SQL Data Analysis
+
 💾 Database: sales_clean (retail sales)
 
     Project Description
