@@ -8,6 +8,7 @@ This project involves analyzing a retail sales dataset using MySQL.
 The goal is to extract actionable business insights from raw transactional data through structured querying, cleaning, and reporting.
 
     Data Cleaning Steps
+    
 ✅ Removed NULLs: Checked for null values across all columns and confirmed data integrity.
 
 ✅ Checked duplicates: Verified transaction_id was unique as it's the primary key.
@@ -43,6 +44,7 @@ Customer Demographics & Behavior
 ✅ Which age group generates the most revenue?
 
 Time-Based Trends
+
 ✅ At what hour of the day are most sales made?
 
 ✅ On which day of the month is revenue highest?
